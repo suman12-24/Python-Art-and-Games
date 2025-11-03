@@ -35,8 +35,4 @@ This repository is designed to:
 
 ---
 
-## 🚀 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/Python-Art-and-Games.git
